@@ -1,0 +1,7 @@
+import{N as e,O as t,i as n,j as r,k as i,t as a}from"./jsx-runtime-CMtAT1ag.js";var o=e(r(),1),s=a();function c({}){return[{title:`Native`},{name:`description`,content:`Native - 동호회 아카이브`}]}var l=i(function(){let e=t();return(0,o.useEffect)(()=>{function t(t){t.key===`Enter`&&e(`/posts`)}return window.addEventListener(`keydown`,t),()=>window.removeEventListener(`keydown`,t)},[e]),(0,s.jsx)(`div`,{className:`min-h-screen flex items-center justify-center px-4 sm:px-6`,children:(0,s.jsxs)(`div`,{className:`w-full max-w-md`,children:[(0,s.jsx)(`pre`,{className:`text-[#d4d4d4] text-[10px] sm:text-sm leading-relaxed mb-8 overflow-hidden`,children:`
+  _   _       _   _
+ | \\ | | __ _| |_(_)_   _____
+ |  \\| |/ _\` | __| \\ \\ / / _ \\
+ | |\\  | (_| | |_| |\\ V /  __/
+ |_| \\_|\\__,_|\\__|_| \\_/ \\___|
+`}),(0,s.jsxs)(`div`,{className:`text-[#808080] text-sm space-y-1 mb-8`,children:[(0,s.jsx)(`p`,{children:`창간호 주제 1`}),(0,s.jsx)(`p`,{children:`2026.05`})]}),(0,s.jsxs)(n,{to:`/posts`,className:`text-sm text-[#555] inline-block`,children:[(0,s.jsx)(`span`,{className:`text-[#808080]`,children:`$ press `}),(0,s.jsx)(`span`,{className:`text-[#d4d4d4]`,children:`Enter`}),(0,s.jsx)(`span`,{className:`text-[#808080]`,children:` to continue`}),(0,s.jsx)(`span`,{className:`cursor`})]})]})})});export{l as default,c as meta};
